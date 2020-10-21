@@ -15,18 +15,18 @@ layout: default
     {% assign m = page.date | date: "%-m" %}
     {{ page.date | date: "%-d. " }}
     {% case m %}
-      {% when '1' %}Januar
-      {% when '2' %}Februar
-      {% when '3' %}Mars
-      {% when '4' %}April
-      {% when '5' %}Mai
-      {% when '6' %}Juni
-      {% when '7' %}Juli
-      {% when '8' %}August
-      {% when '9' %}September
-      {% when '10' %}Oktober
-      {% when '11' %}November
-      {% when '12' %}Desember
+      {% when '1' %}januar
+      {% when '2' %}februar
+      {% when '3' %}mars
+      {% when '4' %}april
+      {% when '5' %}mai
+      {% when '6' %}juni
+      {% when '7' %}juli
+      {% when '8' %}august
+      {% when '9' %}september
+      {% when '10' %}oktober
+      {% when '11' %}november
+      {% when '12' %}desember
     {% endcase %}
     {{ page.date | date: " %Y" }}
   </div>
