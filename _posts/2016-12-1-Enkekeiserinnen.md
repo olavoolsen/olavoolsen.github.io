@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Enkekeiserinnen av 
+title: Enkekeiserinnen av Jung Chang
 date: 2016-12-1
 excerpt_separator: <!--more-->
 ---
 
 ![Omslaget til Enkekeiserinnen viser eit portrettfoto i farge av enkekeiserinne Cixi](/images/enkekeiserinnen.jpg)
 
-**Eg har lese ein del** meir eller mindre summariske framstillingar av eldre og nyare kinesiske historie. Omstenda rundt brytningstida på 1800-talet, då den industrielle revolusjonen kom til Kina, og landet i praksis var styrt av enkekeiserinne Cixi, har framstått særleg obskur for meg: Ein uoversiktleg opptakt til det moderne Kinas historie. Jung Chang lettar på sløret – eller kanskje eg heller skal seia at ho fjernar silkeskjermen. Ho gjer ein god jobb med å svara på mykje av det eg har lurt på, og den gåtefulle Cixi blir gitt eit menneskeleg ansikt. Historia blir levande skildra, og motivasjonane til dei ulike personane blir drøfta på ein nøktern og truverdig måte.
+**Eg har lese ein del** meir eller mindre summariske framstillingar av eldre og nyare kinesiske historie. Omstenda rundt brytningstida på 1800-talet, då den industrielle revolusjonen kom til Kina, og landet i praksis var styrt av enkekeiserinne Cixi, har framstått særleg obskur for meg: Ein uoversiktleg opptakt til det moderne Kinas historie. Jung Chang lettar på sløret – eller kanskje eg heller skal seia at ho fjernar silkeskjermen. Ho gjer ein god jobb med å svara på mykje av det eg har lurt på, og den gåtefulle Cixi blir gitt eit menneskeleg ansikt. Historia blir levande skildra. Motivasjonane til dei ulike personane blir drøfta på ein nøktern og truverdig måte.
 
 <!--more-->
 
