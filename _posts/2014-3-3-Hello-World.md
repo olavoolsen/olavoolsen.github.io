@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Last and First Men av Olaf Stapledon
+date: 2016-08-1
 ---
 
 Ein science fiction-roman om historia til menneskeslekta, der idear og ideologiar speler hovudrollene: Gjennom heile boka er det ingen namngitte karakterar, i staden følgjer handlinga den teknologiske, biologiske og sjelelige utviklinga til ulike sivilisasjonar og menneskeartar, frå forfattaren si samtid (mellomkrigstida) og mange millionar år fram i tid.
