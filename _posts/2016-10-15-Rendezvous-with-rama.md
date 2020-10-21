@@ -7,9 +7,7 @@ excerpt_separator: <!--more-->
 
 ![Omslaget til Rendezvous With Rama viser eit romskip og eit mystisk objekt i rommet](/images/rendezvous.jpg)
 
-**Rendezvous With Rama er klassisk science fiction,** på godt og vondt. I året 2130 oppdagar astronautar at ein himmellekam er på veg inn mot hjartet av solsystemet, med enorm fart. Og ikkje nok med det: Lekamen, som får namnet Rama, liknar ingenting astronomane nokon gong før har sett. Det blir fort klart at Rama er eit romskip frå eit anna stjernesystem, og astronautane på romskipet Endeavour blir sendt for å gjera rendezvous. Menneskja skal for første gong møta utanomjordisk intelligens. Men møtet må bli kort, for snart vil Rama vera så nær sola at det vil bli umogleg for Endeavour å returnera trygt til jorda.
-
-<!--more-->
+**Rendezvous With Rama er klassisk science fiction,** på godt og vondt. I året 2130 oppdagar astronautar at ein himmellekam er på veg inn mot hjartet av solsystemet, med enorm fart. Og ikkje nok med det: Lekamen, som får namnet Rama, liknar ingenting astronomane nokon gong før har sett. <!--more-->Det blir fort klart at Rama er eit romskip frå eit anna stjernesystem, og astronautane på romskipet Endeavour blir sendt for å gjera rendezvous. Menneskja skal for første gong møta utanomjordisk intelligens. Men møtet må bli kort, for snart vil Rama vera så nær sola at det vil bli umogleg for Endeavour å returnera trygt til jorda.
 
 **Det gode først:** Arthur C. Clarke er usedvanleg fantasifull, og han fuskar ikkje med vitskapen. Det er ei fryd å vera med og utforska den gåtefulle, sylindriske verda Rama. Clarke skildrer syn og situasjonar som det verkeleg er verd å dvela ved, lukka augene og sjå for seg. Dei virker fantastiske, men har solid grunnlag i fysikken slik me kjenner han. Særleg imponerande er måten han skriv om opplevinga av tyngdekrafta – korleis våre jordlege oppfatningar om opp og ned blir tødd etter kvart som astronautane trenger stadig djupare inn i Rama. Her er det mykje mat for fantasien!
 

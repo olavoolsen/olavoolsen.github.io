@@ -7,9 +7,7 @@ excerpt_separator: <!--more-->
 
 ![Omslaget til I Contain Multitudes viser mikroskopbilde av bakterier](/images/multitudes.jpg)
 
-**Det er ei usynleg verd som omgir oss alle,** men dei færraste av oss tenker noko særleg på det. Eg snakkar om mikrober, så klart. Hadde du gløymt at kvar centimeter av kroppen din, kvar overflate du tar på og sjølv lufta du pustar inn kryr av skapningar du ikkje kan sjå? Det er overraskande fort gjort. Kanskje fordi me ikkje vil tenka på det – for når ein først høyrer mikrober, så tenker dei fleste umiddelbart på sjukdom, skitt og smitte. Men faktum er at kroppen vår inneheld minst like mange mikrober som mennesekeceller.
-
-<!--more-->
+**Det er ei usynleg verd som omgir oss alle,** men dei færraste av oss tenker noko særleg på det. Eg snakkar om mikrober, så klart. Hadde du gløymt at kvar centimeter av kroppen din, kvar overflate du tar på og sjølv lufta du pustar inn kryr av skapningar du ikkje kan sjå? <!--more-->Det er overraskande fort gjort. Kanskje fordi me ikkje vil tenka på det – for når ein først høyrer mikrober, så tenker dei fleste umiddelbart på sjukdom, skitt og smitte. Men faktum er at kroppen vår inneheld minst like mange mikrober som mennesekeceller.
 
 **Men mikrober er langt meir** enn patogener som gjer oss sjuke. Frå vårt fellesskap med mitokondriene, urbakteriene som finst i alle cellene våre, til probiotisk yoghurt, undersøker Yong på underhaldande vis dei ulike måtane menneske og dyr lever i symbiose med mikrober. Han viser klart at symbiose ikkje alltid betyr harmoni: Eit nyttig forhold kan fort bli farleg, og ein farleg eigenskap kan fort bli nyttig. I naturen finst alltid interessekonfliktar, og det er det som driv evolusjonen. Eit enormt mangfold av ulike måtar å samarbeida og sameksistera på blir løfta fram, og spørsmålet melder seg: Kvar går eigentleg grensa mellom organisme og økosystem?
 
