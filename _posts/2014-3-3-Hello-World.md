@@ -5,7 +5,7 @@ date: 2016-08-1
 excerpt_separator: <!--more-->
 ---
 
-![Omslaget til First and Last Men er ei teikning av eit ansikt som går i eitt med bakgrunnen, som er blå.](/images/lastmen.jpeg)
+![Omslaget til First and Last Men er ei teikning av eit ansikt som går i eitt med bakgrunnen, som er blå.](/images/lastmen.jpg)
 
 **SCIENCE FICTION: Last and First Men er ein science fiction-roman om historia til menneskeslekta,** der idear og ideologiar speler hovudrollene. Gjennom heile boka er det ingen namngitte karakterar, i staden følgjer handlinga den teknologiske, biologiske og sjelelige utviklinga til ulike sivilisasjonar og menneskeartar, frå forfattaren si samtid (mellomkrigstida) og mange millionar år fram i tid.
 
