@@ -15,4 +15,4 @@ excerpt_separator: <!--more-->
 
 **Som roman er** boka noko meir mangelfull. Dei filosofiske og ideologiske konfliktane som driv handlinga er ofte altfor diffust skildra til å engasjera lesaren. Ellers er teksten plaga av ganske hyppige og unødvendige gjentakingar. Vitskapleg sett er boka utdadert – naturleg nok, då boka er såpass gammel. Mange av konsepta Stapledon presenterer er likevel imponerande framsynte, mellom anna det han skriv om manipulasjon av arvestoff, fleire tiår før rolla til DNA i cellene var forstått. Eit par ting vil virker ufrivillig komiske lese i ei meir sosialt progressiv tid. Forfattaren ser til dømes for seg ein framtidig, seksuelt liberal menneskeart med eit utall nye kjønn. Spennande! Men så presterer han likevel å vera pinleg nøye med å påpeika at alt dette nye samkvemmet foregår mellom nye underkategoriar av menn og nye underkategoriar av kvinner. Dette synest jo å undegrava det nyskapande ved framtidsvisjonen litt, men det hadde vel vore leit for han om nokon skulle misforstå!
 
-**Eg kan alt** i alt ikkje tilrå boka for andre enn spesielt interesserte.
+**Eg kan alt i alt ikkje tilrå boka for andre enn spesielt interesserte.**
