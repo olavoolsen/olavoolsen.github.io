@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 ![Omslaget til Ravelstein viser eit kaffeservise på eit serveringsbrett.](/images/ravelstein.jpg)
 
-**Denne romanen oppdaga eg i ei bokhylle på ein sjukeheim,** på rommet til ein gammal og sjuk mann. Ikkje heilt upassande: Alderdom og død er viktige tema i boka, som forfattaren skreiv då han var i 80-åra, så vidt eg forstår delvis basert på eigne erfaringar. Boka er full av gode dialogar, varme og nære personskildringar. Dette siste er særleg viktig: Kva seier måten nokon framstår på – korleis dei kler seg og ter seg – om kven dei er?
+**ROMAN: Denne romanen oppdaga eg i ei bokhylle på ein sjukeheim,** på rommet til ein gammal og sjuk mann. Ikkje heilt upassande: Alderdom og død er viktige tema i boka, som forfattaren skreiv då han var i 80-åra, så vidt eg forstår delvis basert på eigne erfaringar. Boka er full av gode dialogar, varme og nære personskildringar. Dette siste er særleg viktig: Kva seier måten nokon framstår på – korleis dei kler seg og ter seg – om kven dei er?
 
 <!--more-->
 
