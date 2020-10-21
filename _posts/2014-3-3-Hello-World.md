@@ -4,9 +4,13 @@ title: Last and First Men av Olaf Stapledon
 date: 2016-08-1
 ---
 
+![Omslaget til First and Last Men er ei teikning av eit ansikt som går i eitt med bakgrunnen, som er blå.](/images/lastmen.jpeg)
+
 <b>SCIENCE FICTION: Last and First Men er ein science fiction-roman om historia til menneskeslekta, der idear og ideologiar speler hovudrollene.</b> Gjennom heile boka er det ingen namngitte karakterar, i staden følgjer handlinga den teknologiske, biologiske og sjelelige utviklinga til ulike sivilisasjonar og menneskeartar, frå forfattaren si samtid (mellomkrigstida) og mange millionar år fram i tid.
 
-![Omslaget til First and Last Men er ei teikning av eit ansikt som går i eitt med bakgrunnen, som er blå.](/images/lastmen.jpeg)
+---
+excerpt_separator: <!--more-->
+---
 
 Boka er unektelig interessant som historisk dokument. Lese i 2016, seier nok Last and First Men langt meir om 30-talet om framtida. Frå vårt synspunkt, nesten eit århundre etter at boka kom ut, er det tydeleg at Stapledon trefte dårleg i sine førestillingar om den nærmaste kommande tida: Han ser for seg ein stor, kommande krig mellom Storbritannia og Frankrike, medan Tyskland blir Europas fremste fredsnasjon. Det er lett å himla litt med auga over dette, i etterpåklokskapens lys. Så gjenstår det å sjå om han treffer betre med dei fjernare delane av historia, som utgjer størsteparten av romanen. At òg desse er farga av dei ideologiske konfliktane i Stapledons samtid, er klart. Gjennomgåande i boka er ekko av tidas rasetenking og eugenikk. Ideane som driv kulturane i fortellinga blir opent og implisitt samanlikna med kapitalistisk og kommunistisk ideologi, og blir ofte moralsk tvetydig framstilt. Likevel er det slik at kosmopolitisme til slutt skin gjennom som eit særleg edelt menneskeleg ideal.
 
