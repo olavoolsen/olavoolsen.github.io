@@ -2,7 +2,7 @@
 layout: post
 title: Last and First Men av Olaf Stapledon
 date: 2016-8-28
-author: Olav Østebø Olsen
+author: Olav
 excerpt_separator: <!--more-->
 ---
 

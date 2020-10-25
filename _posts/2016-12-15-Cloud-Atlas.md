@@ -2,7 +2,7 @@
 layout: post
 title: Cloud Atlas av David Mitchell
 date: 2016-8-28
-author: Olav Østebø Olsen
+author: Olav
 excerpt_separator: <!--more-->
 ---
 

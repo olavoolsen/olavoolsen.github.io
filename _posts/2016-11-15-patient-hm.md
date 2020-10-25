@@ -2,7 +2,7 @@
 layout: post
 title: Patient H.M. av Luke Dittrich
 date: 2016-9-2
-author: Olav Østebø Olsen
+author: Olav
 excerpt_separator: <!--more-->
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: I Contain Multitudes av Ed Yong
 date: 2016-9-7
-author: Olav Østebø Olsen
+author: Olav
 excerpt_separator: <!--more-->
 ---
 

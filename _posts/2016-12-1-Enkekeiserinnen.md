@@ -2,7 +2,7 @@
 layout: post
 title: Enkekeiserinnen av Jung Chang
 date: 2016-8-28
-author: Olav Østebø Olsen
+author: Olav
 excerpt_separator: <!--more-->
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Rendezvous With Rama av Arthur C. Clarke
 date: 2016-9-4
-author: Olav Østebø Olsen
+author: Olav
 excerpt_separator: <!--more-->
 ---
 

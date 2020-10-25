@@ -2,7 +2,7 @@
 layout: post
 title: The Emperor of all Maladies av Siddharta Mukherjee
 date: 2016-9-28
-author: Olav Østebø Olsen
+author: Olav
 excerpt_separator: <!--more-->
 ---
 
