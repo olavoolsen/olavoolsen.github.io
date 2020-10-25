@@ -29,6 +29,7 @@ layout: default
       {% when '12' %}desember
     {% endcase %}
     {{ page.date | date: " %Y" }}
+    av {{ page.author }}
   </div>
 
   {% include disqus.html %}
