@@ -2,6 +2,7 @@
 layout: post
 title: Ravelstein av Saul Bellow
 date: 2016-8-28
+author: Olav Østebø Olsen
 excerpt_separator: <!--more-->
 ---
 

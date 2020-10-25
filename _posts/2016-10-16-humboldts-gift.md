@@ -2,6 +2,7 @@
 layout: post
 title: Humboldt's Gift av Saul Bellow
 date: 2016-10-13
+author: Olav Østebø Olsen
 excerpt_separator: <!--more-->
 ---
 

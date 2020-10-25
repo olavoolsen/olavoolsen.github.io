@@ -2,6 +2,7 @@
 layout: post
 title: Logicomix av Apostolos Doxiadis og Christos Papadimitriou
 date: 2016-8-28
+author: Olav Østebø Olsen
 excerpt_separator: <!--more-->
 ---
 

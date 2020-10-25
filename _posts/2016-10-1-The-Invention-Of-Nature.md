@@ -2,6 +2,7 @@
 layout: post
 title: The Invention of Nature av Andrea Wulf
 date: 2016-8-28
+author: Olav Østebø Olsen
 excerpt_separator: <!--more-->
 ---
 

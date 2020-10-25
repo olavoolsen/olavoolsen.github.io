@@ -2,6 +2,7 @@
 layout: post
 title: John Saturnall's Feast av Lawrence Norfolk
 date: 2018-5-26
+author: Olav Østebø Olsen
 excerpt_separator: <!--more-->
 ---
 

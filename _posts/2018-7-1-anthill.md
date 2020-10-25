@@ -2,6 +2,7 @@
 layout: post
 title: "Anthill: A Novel av E. O. Wilson"
 date: 2018-7-6
+author: Olav Østebø Olsen
 excerpt_separator: <!--more-->
 ---
 

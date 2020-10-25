@@ -2,6 +2,7 @@
 layout: post
 title: ”Farskanan av Johan Hargstam”
 date: 2020-10-25
+author: Marie Jahren Fludal
 excerpt_separator: <!--more-->
 ---
 
