@@ -17,8 +17,8 @@ layout: default
       <div class="date">
         Skrive den 
         
-        {% assign m = page.date | date: "%-m" %}
-        {{ page.date | date: "%-d. " }}
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d. " }}
         {% case m %}
           {% when '1' %}januar
           {% when '2' %}februar
@@ -33,7 +33,7 @@ layout: default
           {% when '11' %}november
           {% when '12' %}desember
         {% endcase %}
-        {{ page.date | date: " %Y" }}
+        {{ post.date | date: " %Y" }}
       </div>
     </article>
   {% endfor %}
