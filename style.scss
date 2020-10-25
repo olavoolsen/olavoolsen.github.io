@@ -195,13 +195,15 @@ img {
 }
 
 .site-name {
-  margin: 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: 'Libre Caslon Display', serif;
-  font-weight: 300;
-  font-size: 38px;
-  letter-spacing: 1px;
+    margin: 0;
+    color: #333;
+    cursor: pointer;
+    font-family: 'Libre Caslon Display', serif;
+    font-weight: 300;
+    font-size: 38px;
+    letter-spacing: 1px;
+    line-height: 1;
+    padding: 0.25em 0;
 }
 
 .site-description {
