@@ -288,12 +288,12 @@ nav {
 .pagination {
   display: flex;
   justify-content: space-between;
-  padding: 1em;
-
+  padding: 1em 0;
   a, span {
-    padding: 0 1em;
+    padding: 0 .5em;
   }
 }
+
 
 .wrapper-footer {
   margin-top: 50px;
@@ -308,6 +308,11 @@ footer {
   text-align: center;
 }
 
+@media(max-width: 400px) {
+  .pagination {
+    font-size: .85em;
+  }
+} 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
