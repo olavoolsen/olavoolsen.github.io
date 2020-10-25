@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Humboldt's Gift av Saul Bellow
-date: 2016-10-15
+date: 2016-10-13
 excerpt_separator: <!--more-->
 ---
 

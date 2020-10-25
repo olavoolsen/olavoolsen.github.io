@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Changes Everything av Naomi Klein
-date: 2016-12-15
+date: 2016-10-16
 excerpt_separator: <!--more-->
 ---
 

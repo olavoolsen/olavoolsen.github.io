@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last and First Men av Olaf Stapledon
-date: 2016-08-1
+date: 2016-8-28
 excerpt_separator: <!--more-->
 ---
 

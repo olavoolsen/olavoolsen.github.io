@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Invention of Nature av Andrea Wulf
-date: 2016-10-1
+date: 2016-8-28
 excerpt_separator: <!--more-->
 ---
 

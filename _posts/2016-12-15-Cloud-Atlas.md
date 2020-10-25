@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cloud Atlas av David Mitchell
-date: 2016-12-15
+date: 2016-8-28
 excerpt_separator: <!--more-->
 ---
 

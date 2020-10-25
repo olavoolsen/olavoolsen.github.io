@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enkekeiserinnen av Jung Chang
-date: 2016-12-1
+date: 2016-8-28
 excerpt_separator: <!--more-->
 ---
 

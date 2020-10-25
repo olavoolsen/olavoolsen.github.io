@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ravelstein av Saul Bellow
-date: 2016-09-1
+date: 2016-8-28
 excerpt_separator: <!--more-->
 ---
 

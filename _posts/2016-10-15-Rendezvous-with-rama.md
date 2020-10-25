@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rendezvous With Rama av Arthur C. Clarke
-date: 2016-10-15
+date: 2016-9-4
 excerpt_separator: <!--more-->
 ---
 

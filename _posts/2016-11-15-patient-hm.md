@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patient H.M. av Luke Dittrich
-date: 2016-12-15
+date: 2016-9-2
 excerpt_separator: <!--more-->
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anthill: A Novel av E. O. Wilson"
-date: 2018-7-1
+date: 2018-7-6
 excerpt_separator: <!--more-->
 ---
 

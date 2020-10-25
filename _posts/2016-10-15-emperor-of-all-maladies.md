@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Emperor of all Maladies av Siddharta Mukherjee
-date: 2016-10-15
+date: 2016-9-28
 excerpt_separator: <!--more-->
 ---
 
