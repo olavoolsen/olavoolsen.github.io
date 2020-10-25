@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 ![Omslaget til Anthill viser ein gut som går langs ein skogsveg](/images/anthill.jpg)
 
-**E. O. Wilson er kanskje den fremste eksperten i verda på maur.** Han er ikkje ein ekspert på å skriva romanar. Så vidt eg veit er Anthill den einaste skjønnlitterære boka i hans omfattande bibliografi. Det er no likevel min lesefilosofi at ein ikkje kan leva berre på klassikarar og kritikarroste bestseljarar, av og til må ein lesa noko litt utanfor allfarveg. Og dermed gav eg meg i kast med denne forteljinga frå sosibiologiens far.<!--more-->
+**ROMAN: E. O. Wilson er kanskje den fremste eksperten i verda på maur.** Han er ikkje ein ekspert på å skriva romanar. Så vidt eg veit er Anthill den einaste skjønnlitterære boka i hans omfattande bibliografi. Det er no likevel min lesefilosofi at ein ikkje kan leva berre på klassikarar og kritikarroste bestseljarar, av og til må ein lesa noko litt utanfor allfarveg. Og dermed gav eg meg i kast med denne forteljinga frå sosibiologiens far.<!--more-->
 
 **Boka er ein oppvekstroman om Raphael Semmes Cody,** ein intelligent gut frå Alabama med ei overklassemor og ein arbeidarklassefar. Raff, som han blir kalla, har ein stor interesse for natur og dyreliv, særleg maur. Dette blir møtt med lite forståing frå familien hans, som er meir opptatte av status, rikdom, Gud og våpen. Etter kvart får Raff greie på at villmarka der han lærte å elska naturen er truga av eigedomsutviklarar, og set det som sitt mål å verna dette området og andre liknande stadar.
 
