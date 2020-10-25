@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Om oss
 permalink: /about/
 ---
 
-Some information about you!
+![Eit fotografi av Olav og Marie med kvar si bok](/images/lesuli.png)
 
-### More Information
+Bjørkhaug bøker er ein bokblogg av Olav Østebø Olsen og Marie Jahren Fludal. Her vil me skriva bokmeldingar og anna litteraturstoff. Bloggen har ellers ikkje noko spesielt tema eller sjangerfokus, men Olav er særleg interessert i historiske romanar og science fiction, og Marie er særleg interessert i nordisk samtidslitteratur og debattbøker. 
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Kontakt oss
 
-[email@domain.com](mailto:email@domain.com)
+Olav:[oenols@gmail.com](mailto:oenols@gmail.com)
+Marie: [marie@fludal.no](mailto:marie@fludal.no)
