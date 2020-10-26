@@ -32,6 +32,7 @@ layout: default
     av {{ page.author }}
   </div>
 
-  {% include disqus.html %}
   {% if page.comments %}
+  {% include disqus.html %}          
+{% endif %}
 </article>
