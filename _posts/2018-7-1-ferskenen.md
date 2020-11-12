@@ -3,6 +3,7 @@ layout: post
 title: Ferskenen av Johan Harstad
 date: 2020-10-26
 author: Marie
+comments: true
 excerpt_separator: <!--more-->
 ---
 

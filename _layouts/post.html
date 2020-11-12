@@ -32,5 +32,8 @@ layout: default
     av {{ page.author }}
   </div>
 
+  {% if page.comments %}
   {% include disqus.html %}
+  {% include cookie-consent.html %}        
+{% endif %}
 </article>
