@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 **For det første kan bekymringa vera eit teikn på at fortellinga engasjerer deg, at du bryr deg om handlinga, den fiktive verda og dei oppdikta personane.** Til slutt kan du hende du føler deg letta, trist, fornøgd, skuffa, tom eller tankefull. I litteraturen er alt dette som regel betre enn at du føler deg likegyldig. 
 
-**Men det finst ein annan måte å bekymra seg for slutten på.** Det er når du med uro kjenner med høgre tommel og peikefinger på den stadig tynnare høgresida av den opne boka di, medan venstresida veks seg feit og fornøgd. Litt fordi du innser at lesegleden snart er over, og at du må forlata det du har levd deg inn i og venda tilbake til kvardagen. Men òg fordi du rett og slett er redd for om forfattaren kjem til å rekka gi deg dei svara du vil ha.
+**Men det finst ein annan måte å bekymra seg for slutten på.** Det er når du med uro kjenner med høgre tommel og peikefinger på den stadig tynnare høgresida av den opne boka di, medan venstresida veks seg feit og fornøgd. Litt fordi du innser at lesegleda snart er over, og at du må forlata det universet du har levd deg inn i, og venda tilbake til kvardagen. Men òg fordi du rett og slett er redd for om forfattaren kjem til å rekka gi deg dei svara du vil ha.
 
 **Alle desse nyansane av bekymring har eg følt på undervegs i lesinga mi av denne blivande trilogien.** Det har for det meste vore ei god oppleving. Eg er spent på kva som kjem til å skje, eg vil vita meir om Temerant og lagnaden til helten Kvothe. Bøkene har eit svært godt driv, og dei mange sidene flyr uvanleg fort av gårde. Men etter å ha lese ferdig andre bok, er eg først og fremst bekymra for om den tredje boka kan romma alt dei to første har gitt grunn til å forventa.
 
