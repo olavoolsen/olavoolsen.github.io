@@ -115,7 +115,6 @@ excerpt_separator: <!--more-->
 
 **Akselerasjon og resonans av Hartmut Rosa.** Marie skal ha æren for å ha gjort meg merksam på denne interessante tenkaren, som i desse artiklane effektivt oppsummerer sin samtidsdiagnose (akselerasjon) og føreskrivne medisin (resonans).
 
-**Akselerasjon og resonans av Hartmut Rosa.** Marie skal ha æren for å ha gjort meg merksam på denne interessante tenkaren, som i desse artiklane effektivt oppsummerer sin samtidsdiagnose (akselerasjon) og føreskrivne medisin (resonans).
 
 **Det andre namnet, Eit nytt namn og Eg er ein annan av Jon Fosse.** Kvifor består «septologien» av tre bøker? Og har ein bokserie nokon sinne hatt tre titlar som det er vanskelegare å gjetta kva rekkefølge kjem i? Likevel elskar eg Jon Fosse.
 
