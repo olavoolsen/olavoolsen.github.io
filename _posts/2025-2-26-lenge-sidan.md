@@ -151,7 +151,7 @@ excerpt_separator: <!--more-->
 
 **Sjøfareren av Erika Fatland** Som alle andre gamle pappaer fekk eg denne til jul. Det portugisiske imperiet er interessant nok å lesa om, men denne boka skulle ha vore strammare redigert. Det er rett og slett ikkje alt Erika opplever på turen som er like interessant å lesa om, noko av det er direkte keisamt.
 
-**The Myth of American Idealism av Noam Chomsky.** USA har nettopp offisielt alle prinsipp i utanrikspolitikken, er det verd å stilla seg spørsmålet om USA nokon sinne eigentleg i røynda var spesielt opptatt av dei prinsippa. Nei, meiner Noam Chomsky, og han har nok dessverre mykje rett i sitt fordømmande syn på amerikansk utanrikspolitikk. Skal me tru han, var ikkje den verdsordenen me no forlet stort verd, men blir det som ventar oss betre?
+**The Myth of American Idealism av Noam Chomsky.** No som USA nettopp offisielt har forlatt alle prinsipp i utanrikspolitikken, er det verd å stilla seg spørsmålet om USA nokon sinne eigentleg i røynda var spesielt opptatt av å følga dei prinsippa. Nei, meiner Noam Chomsky, og han har nok dessverre mykje rett i sitt fordømmande syn på amerikansk utanrikspolitikk. Skal me tru han, var ikkje den verdsordenen me no forlet stort verd, men blir det som ventar oss betre?
 
 
 
