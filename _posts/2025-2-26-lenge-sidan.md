@@ -85,7 +85,7 @@ excerpt_separator: <!--more-->
 
 **The Entrepreneurial State av Mariana Mazzucato.** Kan staten velja vinnarar? Ja, seier Mazzucato. Obama hadde rett då han sa «you didn't build that».
 
-**The Narrow Road Between Desires av Patrick Rothfuss.** Nok ein <a href="/kingkiller.md">Kingkiller</a>-kortroman. Grei nok, men inga erstatning for den etterlengta tredje boka i serien!
+**The Narrow Road Between Desires av Patrick Rothfuss.** Nok ein <a href="/kingkiller">Kingkiller</a>-kortroman. Grei nok, men inga erstatning for den etterlengta tredje boka i serien!
 
 **The Hundred and Ninety-nine Steps og The Courage Consort av Michel Faber.** Begge dei romanane eg har lese av Michel Faber tidlegare, The Book of Strange New Things og The Crimson Petal and the White (sjå omtale over) trefte meg hardt. Denne duetten av noveller, med sitt underleg tørre og kjenslelause språk, gjorde derimot lite inntrykk på meg.
 
