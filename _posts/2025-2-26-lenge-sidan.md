@@ -7,7 +7,7 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
-![Omslaget til Farleg ferd mot mørkret av Ingvar More](/images/farleg.jpeg){:style="width: 66%"}
+![Omslaget til Farleg ferd mot mørkret av Ingvar More](/images/farleg.jpeg)
 
 **OPPDATERING: Hei, bokblogg! Det er lenge sidan sist.** Tanken med denne bloggen var at han skulle vera ein komplett logg over lesinga vår, og at kvar bok me las skulle følgast opp med ei kortfatta bokmelding. Dette skulle vera til nytte for oss sjølv og til glede for lesarane. Vel, som de ser, har ikkje lesarane hatt mykje å gleda seg over sidan august 2022.
 
