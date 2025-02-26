@@ -27,7 +27,7 @@ excerpt_separator: <!--more-->
 
 **The Cheese and the Worms av Carlo Ginzburg.** Visstnok ein klassikar innan histoire des mentalités. Eg hang ikkje heilt med.
 
-**Too Like The Lightning, Seven Surrenders, The Will to Battle og Perhaps the Stars av Ada Palmar.** Denne kvartetten hadde heilt klar fortent eit meir inngåande innlegg, og kanskje skriv eg eit ein dag. Dette er svimlande komplekse bøker, som er ulike noko anna eg har lese. Les denne serien og <a href="/2020-10-25-thrawn.md">Thrawn-trilogien</a>, så forstår du kor brei sjangeren science fiction kan vera.
+**Too Like The Lightning, Seven Surrenders, The Will to Battle og Perhaps the Stars av Ada Palmar.** Denne kvartetten hadde heilt klar fortent eit meir inngåande innlegg, og kanskje skriv eg eit ein dag. Dette er svimlande komplekse bøker, som er ulike noko anna eg har lese. Les denne serien og <a href="/thrawn">Thrawn-trilogien</a>, så forstår du kor brei sjangeren science fiction kan vera.
 
 **Det store klimasøksmålet av Marius Gulbranson Nordby.** True crime frå Høgsterett. Dessverre.
 
@@ -65,13 +65,13 @@ excerpt_separator: <!--more-->
 
 **This Little Ziggy av Martin Newell.** Nok ein biografi om ein musikalsk outsider, men ei meir typisk historie. Martin Newell forsøkte på 70-talet å bli rockestjerne, men lukkast ikkje. Fornøyeleg og trist om kvarandre.
 
-**The Slow Regard of Silent Things av Patrick Rothfuss.** Eksperimentell kortroman i <a href="/2022-8-19-kingkiller.md">Kingkiller</a>-universet. Kryptiske greier.
+**The Slow Regard of Silent Things av Patrick Rothfuss.** Eksperimentell kortroman i <a href="kingkiller">Kingkiller</a>-universet. Kryptiske greier.
 
 **Dama med hunden av Anton Tsjekhov.** Ei god innføring i den russiske novellekunstens meister, i nydeleg nynorskutgåve frå Skald forlag.
 
-**The Way of Kings av Brandon Sanderson.** <a href="/2020-12-21-mistborn.md">Mistborn-trilogien</a> gjorde meg nysgjerrig på resten av fantasyromanane til Sanderson, som er bundne saman i meta-serien Cosmere. Men denne langtrekte og litt platte fantasyromanen fekk meg til å mista motet for denne gongen. Kanskje kjem eg tilbake ein dag.
+**The Way of Kings av Brandon Sanderson.** <a href="/mistborn">Mistborn-trilogien</a> gjorde meg nysgjerrig på resten av fantasyromanane til Sanderson, som er bundne saman i meta-serien Cosmere. Men denne langtrekte og litt platte fantasyromanen fekk meg til å mista motet for denne gongen. Kanskje kjem eg tilbake ein dag.
 
-**Turms den odödlige av Mika Waltari.** Ikkje like god som <a href="/2021-1-15-sinuhe.md">Egypteren Sinuhe</a>, men det er like fullt ei fryd å feriera i fortida med denne fantasifulle finnen.
+**Turms den odödlige av Mika Waltari.** Ikkje like god som <a href="/sinuhe">Egypteren Sinuhe</a>, men det er like fullt ei fryd å feriera i fortida med denne fantasifulle finnen.
 
 **Politiske skandaler av Kim Arne Hammerstad.** Politiske skandalar er skadelege for samfunnet. Dei einaste som tener på tapt tillit til politikarane, er dei som vil undergrava samfunnsordenen vår. Men det kan jo vera himla gøy, da!
 
@@ -85,7 +85,7 @@ excerpt_separator: <!--more-->
 
 **The Entrepreneurial State av Mariana Mazzucato.** Kan staten velja vinnarar? Ja, seier Mazzucato. Obama hadde rett då han sa «you didn't build that».
 
-**The Narrow Road Between Desires av Patrick Rothfuss.** Nok ein <a href="/2022-8-19-kingkiller.md">Kingkiller</a>-kortroman. Grei nok, men inga erstatning for den etterlengta tredje boka i serien!
+**The Narrow Road Between Desires av Patrick Rothfuss.** Nok ein <a href="/kingkiller.md">Kingkiller</a>-kortroman. Grei nok, men inga erstatning for den etterlengta tredje boka i serien!
 
 **The Hundred and Ninety-nine Steps og The Courage Consort av Michel Faber.** Begge dei romanane eg har lese av Michel Faber tidlegare, The Book of Strange New Things og The Crimson Petal and the White (sjå omtale over) trefte meg hardt. Denne duetten av noveller, med sitt underleg tørre og kjenslelause språk, gjorde derimot lite inntrykk på meg.
 
