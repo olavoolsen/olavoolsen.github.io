@@ -138,7 +138,6 @@ excerpt_separator: <!--more-->
 
 **Det gylne tempels paviljong av Yukio Mishima.** Nøkkelen må ligga i det nasjonale traumet som krigen utgjorde i det japanske sinnet, men dei japanske modernistane handterer dette traumet på gåtefulle og indirekte måtar. Som i denne rystande romanen, der Mishima spekulerer i motivet til den japanske Herostratos.
 
-**Det gylne tempels paviljong av Yukio Mishima.** Nøkkelen må ligga i det nasjonale traumet som krigen utgjorde i det japanske sinnet, men dei japanske modernistane handterer dette traumet på gåtefulle og indirekte måtar. Som i denne rystande romanen, der Mishima spekulerer i motivet til den japanske Herostratos.
 
 **Språkets ville vekster av Ivar Tryti.** Det er ikkje så ofte eg les eit oppslagsverk frå perm til perm, men denne samlinga med faste uttrykk hadde eg stor glede av. Her er det mange gammalmotige, gløymde frasar – som forfattaren stort sett tar det for gitt at du veit kva betyr. Av og til tyr han til ganske tvilsamme, heilt sikkert folkeetymologiske forklaringar.
 
