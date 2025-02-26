@@ -73,8 +73,6 @@ excerpt_separator: <!--more-->
 
 **Turms den odödlige av Mika Waltari.** Ikkje like god som <a href="/sinuhe">Egypteren Sinuhe</a>, men det er like fullt ei fryd å feriera i fortida med denne fantasifulle finnen.
 
-**Politiske skandaler av Kim Arne Hammerstad.** Politiske skandalar er skadelege for samfunnet. Dei einaste som tener på tapt tillit til politikarane, er dei som vil undergrava samfunnsordenen vår. Men det kan jo vera himla gøy, da!
-
 **Politiske skandaler av Kim Arne Hammerstad.** Politiske skandalar er skadelege for samfunnet. Dei einaste som tener på tapt tillit til politikarane, er dei som vil undergrava samfunnsordenen vår. Men det kan jo vera himla gøy å lesa om, da!
 
 **The Crimson Petal and the White av Michel Faber.** Ein overraskande sår roman om lengsel, lidskap og fornedring. Satt i meg lenge.
