@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 
 **Den nye fisken av Simen Sætre og Kjetil Stensvik Østli.** Ei opplysande, polemisk bok om det norske oppdrettseventyret. Eg har knapt rørt oppdrettslaks sidan eg las denne boka. Godt formidla, med kledeleg mangel på respekt.
 
-**Tid for historie av Erling Sandmo** Artiklar om historiefaget som gir nok å undra seg over.
+**Tid for historie av Erling Sandmo.** Artiklar om historiefaget som gir nok å undra seg over.
 
 **The Return of Martin Guerre av Natalie Zemon Davis.** I 1548 reiste Martin Guerre frå familien sin. I 1556 kom ein bedragar og gjenopptok livet han hadde forlatt. Ei bisarr, men sann historie, som illustrerer dei tidvis overraskande skilnadane mellom fortid og notid.
 
@@ -25,7 +25,7 @@ excerpt_separator: <!--more-->
 
 **Doktor Faustus av Thomas Mann.** Alvorstung roman om den tyske Fartein Valen.
 
-**The Cheese and the Worms av Carlo Ginzburg.** Visstnok ein klassikar innan histoire des mentalités. Eg hang ikkje heilt med.
+**The Cheese and the Worms av Carlo Ginzburg.** Visstnok ein klassikar innan mentalitetshistorie. Eg hang ikkje heilt med.
 
 **Too Like The Lightning, Seven Surrenders, The Will to Battle og Perhaps the Stars av Ada Palmar.** Denne kvartetten hadde heilt klar fortent eit meir inngåande innlegg, og kanskje skriv eg eit ein dag. Dette er svimlande komplekse bøker, som er ulike noko anna eg har lese. Les denne serien og <a href="/thrawn">Thrawn-trilogien</a>, så forstår du kor brei sjangeren science fiction kan vera.
 
