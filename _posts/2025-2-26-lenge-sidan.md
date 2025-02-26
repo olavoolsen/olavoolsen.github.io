@@ -65,7 +65,7 @@ excerpt_separator: <!--more-->
 
 **This Little Ziggy av Martin Newell.** Nok ein biografi om ein musikalsk outsider, men ei meir typisk historie. Martin Newell forsøkte på 70-talet å bli rockestjerne, men lukkast ikkje. Fornøyeleg og trist om kvarandre.
 
-**The Slow Regard of Silent Things av Patrick Rothfuss.** Eksperimentell kortroman i <a href="kingkiller">Kingkiller</a>-universet. Kryptiske greier.
+**The Slow Regard of Silent Things av Patrick Rothfuss.** Eksperimentell kortroman i <a href="/kingkiller">Kingkiller</a>-universet. Kryptiske greier.
 
 **Dama med hunden av Anton Tsjekhov.** Ei god innføring i den russiske novellekunstens meister, i nydeleg nynorskutgåve frå Skald forlag.
 
