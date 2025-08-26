@@ -7,7 +7,7 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
-![Bøkene Kampen om verdiene og Har eg rettstryggleik? ligg oppå eit nummer av avisa Klassekampen](/images/rettstryggleik.jpeg){:style="width: 35%"}
+![Bøkene Kampen om verdiene og Har eg rettstryggleik? ligg oppå eit nummer av avisa Klassekampen](/images/rettstryggleik.JPEG){:style="width: 35%"}
 
 **Som mange har rokke å notera seg, skrantar det på den** semantiske substansen i det me vel alle er oppdradde til å sjå på som eit slags velsignande trygt ord som skal verna oss mot både fortida og framtida: demokratiet. Det magiske ordet har vel sidan sin greske fødsel vore ramma av ei form for retorisk metning. Men der me kan nytta historisk medvit (som det heiter på historiedidaktikkterminologi) for å halda oss for gode for å latterleggjera tidlegare tider sine versjonar og forståingar av «folket» og «folkestyre», er det faktisk vår plikt som menneske i ei felles samtid å bli rysta over dei ulike tilstandane og prosessane som utdefinerer våre eigne samtidige medborgarar frå den store smørja som «folket» er. Kven representerer og er representerte i det representative demokratiet vårt, eigentleg? <!--more-->
 
